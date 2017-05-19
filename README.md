@@ -4,11 +4,11 @@ Simple app for displaying numbers in the fibonacci sequence.
 
 Instructions for running:
 
-> git clone https://github.com/Taylor-White/Fibonacci_App
+  git clone https://github.com/Taylor-White/Fibonacci_App
 
-> npm install
+  npm install
 
-> npm start
+  npm start
 
 Go to localhost.  The app should be running.
 
